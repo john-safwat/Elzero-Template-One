@@ -359,7 +359,7 @@ body {
     width: 100%;
 }
 .portfolio .portfolio-content .box .text {
-    padding: 20px;
+    margin: 20px;
 }
 .portfolio .portfolio-content .box .text h3 {
     margin: 0;
@@ -374,7 +374,7 @@ body {
 }
 @media (max-width:767px) {
     .portfolio .portfolio-content .box { 
-        height: 450px;
+        height: fit-content;
     }
 }
 /* end portfolio section  */
